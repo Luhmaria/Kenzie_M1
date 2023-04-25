@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    line-height: 30px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.color-blue{
+    color: rgb(53, 142, 245);
+}
+
+.center{
+    text-align: center;
+}
+
+.background-blue{
+    background-color: rgb(53, 142, 245);
+    color: white;
+}
+
+.sublinhado{
+    text-decoration:underline;
+}
+
+.background-black{
+    background-color: black;
+    color: white;
+}
