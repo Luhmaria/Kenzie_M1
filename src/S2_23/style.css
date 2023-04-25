@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+h1, li, ul, figure, p {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    width: 97vw;
+    background-color: rgba(0, 0, 0, 0.926);
+    color: gray;
+}
+.bigcontainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+.header{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.who{
+    margin-top: 20px;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.986);
+}
+.selection{
+    width: 100%;
+    height:60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.users{
+    max-width: 700px;
+    width: 100%;
+    height: 164px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.box_figures{
+    margin: 2px; /*Inserida margem*/ 
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.avatar{
+    margin: 2px; 
+    width: 160px;
+    height: 160px;
+    text-align: center;
+    line-height: 100%;  
+    border: 2px solid transparent;
+    border-radius: 8px;
+}
+.box_names{
+    max-width: 700px;
+    margin-top: 10px;
+}
+.names{
+    margin: 2px; 
+    width: 160px;
+    text-align: center; 
+    line-height: 100%;
+}
+.manage{
+    margin-top: 10px;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    height: 80%;
+    width: 12%;
+    border: 2px solid white;
+    border-radius: 7px;
+    background-color: transparent;
+    color: white;
+    font-weight: 600;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+.box_figures:hover {
+    color: white;
+}
+.avatar:hover{
+    border-color: gray;
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.bigcontainer{
+    width: 100vw;
+    height: 100vh;
+    background-color:#F8F9FA ;
+}
+.bigcontainer .header{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: white;
+    box-shadow: 0px 4px 40px -15px rgba(0, 0, 0, 0.25);
+}
+.bigcontainer .header .boxfigure{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+.bigcontainer .header .boxfigure .logo{
+    height: 30px;
+    margin: 0 20px;
+}
+.bigcontainer .header .menu{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+.bigcontainer .header .menu .links{
+    color: #343A40 ;
+    cursor: default;
+    text-decoration: none;
+}
+.bigcontainer .header .menu .links:hover{
+    color: #4C6EF5;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 500;
+}
