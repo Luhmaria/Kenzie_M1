@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <title>My Tasks</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <h1 class="titulo">My Tasks</h1>
+        <form>
+            <input id="pesquisa" type="text" placeholder="Pesquisar Tarefa">
+            <button id="search">Pesquisar</button>
+        </form>
+    </header>
+    <main class="container">
+        <h2>Insira uma nova Tarefa</h2>
+        <form>
+            <input id="novaTarefa" type="text" placeholder="Digite a tarefa aqui" name="tarefa" required>
+            <select name="categoria" id="categoria" required>
+                <option value="">Selecione a urgência</option>
+                <option value="urgente">Urgente</option>
+                <option value="prioritário">Prioritário</option>
+                <option value="normal">Normal</option>
+            </select>
+            <button id="insert">Inserir Nova Tarefa</button>
+        </form>
+        
+        
+        <h2 class="titulo_tasks">Tarefas</h2>
+        <ul class="tasks_container">
+        </ul>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
