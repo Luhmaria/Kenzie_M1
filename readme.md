@@ -1,4 +1,4 @@
-# Kenzie first Module
+# Kenzie First Module
 
 <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae placeat
