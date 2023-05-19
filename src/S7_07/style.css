@@ -1,20 +1,20 @@
-body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #303e73;
-    margin-top: 50px;
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #303e73;
+  margin-top: 50px;
 }
-#lamp{
-    width: 400px;
-    height: 400px;
-    background-repeat: no-repeat;
-    background-size: contain;
+#lamp {
+  width: 400px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-.off{
-    background-image: url("imgs/off.svg");
+.off {
+  background-image: url("imgs/off.svg");
 }
-.on{
-    background-image: url("imgs/on.svg");
+.on {
+  background-image: url("imgs/on.svg");
 }

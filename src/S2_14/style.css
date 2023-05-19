@@ -1,87 +1,86 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
 body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-    background-color: #41393E;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #41393e;
 }
 
 article > p {
-    color: #EDA2C0;
+  color: #eda2c0;
 }
 
-
-a{
-    font-weight: 600;
-    color: white;
+a {
+  font-weight: 600;
+  color: white;
 }
 
-.branco{
-    color: white;
+.branco {
+  color: white;
 }
 
-img{
-    height: 50px;
+img {
+  height: 50px;
 }
 
-figure{
-    display: inline;
+figure {
+  display: inline;
 }
-header > h1{
-    display: inline;
+header > h1 {
+  display: inline;
 }
-header{
-    margin: 30px 20px;
-    border-bottom: solid white 1px;
-}
-
-article{
-    border: solid 3px #CB9173;
-    border-radius: 8px;
-    margin: 50px 50px;
-    padding: 10px 20px;
-}
-footer{
-    border: solid  2px white;
-    padding: 10px;
-    margin: 20px 0px;
-    border-radius: 4px;
+header {
+  margin: 30px 20px;
+  border-bottom: solid white 1px;
 }
 
-.formulario{
-    border: 2px solid white;
-    border-radius: 5px;
-    padding: 15px 20px;
-    margin: 15px;
+article {
+  border: solid 3px #cb9173;
+  border-radius: 8px;
+  margin: 50px 50px;
+  padding: 10px 20px;
 }
-.botao{
-    border: 2px solid transparent;
-    border-radius: 8px;
-    background-color: #CB9173;
-    color: white;
-}
-.campoemail{
-    background-color: #E9ECEF;
-    border: solid 1px transparent;
-    border-radius: 4px;
-}
-label{
-    display: block;
-    margin-bottom: 5px;
+footer {
+  border: solid 2px white;
+  padding: 10px;
+  margin: 20px 0px;
+  border-radius: 4px;
 }
 
-.campoemail:hover{
-    background-color: #DEE2E6;
-    cursor: pointer;
+.formulario {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 15px 20px;
+  margin: 15px;
 }
-.botao:hover{
-    border-color: #41393E;
-    cursor: pointer;
+.botao {
+  border: 2px solid transparent;
+  border-radius: 8px;
+  background-color: #cb9173;
+  color: white;
+}
+.campoemail {
+  background-color: #e9ecef;
+  border: solid 1px transparent;
+  border-radius: 4px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
 }
 
-article:hover{
-    border-color:#8E4162 ;
+.campoemail:hover {
+  background-color: #dee2e6;
+  cursor: pointer;
 }
-h2{
-    text-align: center;
+.botao:hover {
+  border-color: #41393e;
+  cursor: pointer;
+}
+
+article:hover {
+  border-color: #8e4162;
+}
+h2 {
+  text-align: center;
 }
