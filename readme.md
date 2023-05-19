@@ -132,6 +132,8 @@ Exercise goal: improve programming logic
 ### Activity S3_19 - Concierge Challenge
 
 Exercise goal: improve programming logic
+</br>
+<b>Please update page to see prompts and interact</b>
 
 <a href="./src/S3_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
