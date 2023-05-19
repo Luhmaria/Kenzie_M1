@@ -1,315 +1,313 @@
 # Kenzie First Module
 
 <p>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae placeat
-  deserunt illo rerum fuga voluptates quos corporis provident explicabo dolores,
-  nostrum aut ad laudantium, eum, ut eligendi? Reprehenderit, nisi perferendis.
+  Here's where the journey truly begins and I start to understand how web development works, the environment, how I could use my previous knowledge on programming. It's a special module because I saw there that my carreer choice was correct. 
 </p>
 
-## Sprint 1 - [Resumo dos tópicos abordados]
+## Sprint 1 - [HTML tags, structure, semantics and Git introduction]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S1_06 - Meu Website
+### Activity S1_06 - Marking texts
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: do first HTML page understantig tags properties and semantics.
 
 <a href="./src/S1_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S1_06/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S1_12 - Página de Perfil
+### Activity S1_12 - Profile Page
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve HTML knowledge by using new tags and attributes.
 
 <a href="./src/S1_12/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S1_12/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S1_26 - Blog da Kenzie
+### Activity S1_26 - Kenzie's Blog
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve HTML comprehension by recreating a existing structure
 
 <a href="./src/S1_26/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S1_26/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 2 - [Resumo dos tópicos abordados]
+## Sprint 2 - [CSS: selectors, cascade and inheritance, box model, flexbox ]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S2_07 - CSS Seletores
+### Activity S2_07 - CSS Selectors
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: Customize styling with specific selectors
 
 <a href="./src/S2_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_11 - Margin e Padding
+### Activity S2_11 - Margin and Padding
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: understand the concepts of spacing between elements
 
 <a href="./src/S2_11/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_11/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_13 - Utilizando Pseudo Classes
+### Activity S2_13 - Using Pseudo Classes
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: add effects using pseudo classes.
 
 <a href="./src/S2_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_14 - Blog Kenzie Academy Brasil
+### Activity S2_14 - Blog Kenzie Academy Brasil
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: add style to previous blog made with html only
 
 <a href="./src/S2_14/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_14/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_20 - Flexbox Menu
+### Activity S2_20 - Flexbox Menu
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: learn more styling features
 
 <a href="./src/S2_20/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_20/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_21 - Página Blog
+### Activity S2_21 - Blog Page
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: exercise positioning concepts on a complex page
 
 <a href="./src/S1_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_21/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_23 - KenzieFlix
+### Activity S2_23 - KenzieFlix
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: recreate a known interface (netflix menu) using flexbox concepts
 
 <a href="./src/S2_23/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_23/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S2_24 - Tech Shop
+### Activity S2_24 - Tech Shop
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: evolve styling concepts with a complete ecommerce page
 
 <a href="./src/S2_24/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S2_24/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 3 - [Resumo dos tópicos abordados]
+## Sprint 3 - [Javascript: algorithms, variables and programming logic]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S3_14 - Praticando com Variáveis
+### Activity S3_14 - Practicing with Variables
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve programming logic
 
 <a href="./src/S3_14/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_14/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S3_19 - Desafio Portaria
+### Activity S3_19 - Concierge Challenge
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve programming logic
 
 <a href="./src/S3_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S3_26 - Aprovado ou Reprovado
+### Activity S3_26 - Approved or Failed
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve programming logic
 
 <a href="./src/S3_26/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_26/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S3_27 - Javascript: Primeiros Passos
+### Activity S3_27 - Javascript: First Steps
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve programming logic
 
 <a href="./src/S3_27/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_27/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S3_32 - Trabalhando com Funções
+### Activity S3_32 - Using Functions
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: expand the possibilities with javascript through functions
 
 <a href="./src/S3_32/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_32/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 4 - [Resumo dos tópicos abordados]
+## Sprint 4 - [ Loops ]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S4_10 - Katas 01
+### Activity S4_10 - Katas 01
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic with loops
 
 <a href="./src/S4_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S4_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S4_19 - SnapCrackle
+### Activity S4_19 - SnapCrackle
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic with loops
 
 <a href="./src/S4_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S4_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 5 - [Resumo dos tópicos abordados]
+## Sprint 5 - [Nested arrays and objects]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S5_07 - Barbearia Web
+### Activity S5_07 - Web Barber
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: understand objects concept
 
 <a href="./src/S5_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S5_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S5_10 - Katas 02
+### Activity S5_10 - Katas 02
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic using all tools learned
 
 <a href="./src/S5_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S5_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S5_16 - Lista de Lógica
+### Activity S5_16 - Lista de Lógica
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic using all tools learned
 
 <a href="./src/S5_16/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S5_16/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S5_19 - Katas 03
+### Activity S5_19 - Katas 03
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic using all tools learned
 
 <a href="./src/S5_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S5_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 6 - [Resumo dos tópicos abordados]
+## Sprint 6 - [Manipulating objects and arrays]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S6_07 - Katas 04
+### Activity S6_07 - Katas 04
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: improve logic using all tools learned
 
 <a href="./src/S6_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S6_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S6_13 - Geek World
+### Activity S6_13 - Geek World
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: build a web page using CSS and DOM concepts
 
 <a href="./src/S6_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S6_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 7 - [Resumo dos tópicos abordados]
+## Sprint 7 - [ Events ]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S7_06 - My Tasks
+### Activity S7_06 - My Tasks
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: implement logic from user interaction.
 
 <a href="./src/S7_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S7_06/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S7_07 - Lâmpada
+### Activity S7_07 - Lamp
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: implement logic from user interaction using CSS.
 
 <a href="./src/S7_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S7_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S7_10 - Lista de Compras
+### Activity S7_10 - Shopping list
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: add elements to the interface capturing information from inputs
 
 <a href="./src/S7_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S7_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S7_13 - Manipulando Atributos
+### Activity S7_13 - Manipulating Attributes
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: conditional rendering
 
 <a href="./src/S7_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S7_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
-### Atividade S7_15 - Carrinho de compras
+### Activity S7_15 - Shopping cart
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: consolidate knowledge about events, positioning and DOM
 
 <a href="./src/S7_15/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S7_15/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
-## Sprint 8 - [Resumo dos tópicos abordados]
+## Sprint 8 - [Final Project]
 
 <details>
   <summary>Activities</summary>
 
-### Atividade S8_01 - Tri-Brand
+### Activity S8_01 - Tri-Brand
 
-Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Exercise goal: Consolidate knowledge obtained using all concepts: manipulation of arrays and objects, elaboration of functions, DOM, events, CSS and array methods.
 
 <a href="./src/S8_01/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S8_01/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
