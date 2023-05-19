@@ -322,3 +322,7 @@ Exercise goal: Consolidate knowledge obtained using all concepts: manipulation o
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S8_01/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
+
+<hr />
+<p align="center">
+<b>The structure of this repository was designed and provided by @bitoller. You need to ask her if you want to apply the same template, please :)</b></p>
