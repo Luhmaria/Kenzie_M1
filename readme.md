@@ -121,6 +121,8 @@ Exercise goal: evolve styling concepts with a complete ecommerce page
 ### Activity S3_14 - Practicing with Variables
 
 Exercise goal: improve programming logic
+</br>
+<b>Please update page to see prompts and interact</b>
 
 <a href="./src/S3_14/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_14/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
@@ -139,6 +141,8 @@ Exercise goal: improve programming logic
 ### Activity S3_26 - Approved or Failed
 
 Exercise goal: improve programming logic
+</br>
+<b>Please update page to see prompts and interact</b>
 
 <a href="./src/S3_26/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_26/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
@@ -148,7 +152,8 @@ Exercise goal: improve programming logic
 ### Activity S3_27 - Javascript: First Steps
 
 Exercise goal: improve programming logic
-
+</br>
+<b>Please update page to see prompts and interact</b>
 <a href="./src/S3_27/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_27/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
@@ -157,6 +162,8 @@ Exercise goal: improve programming logic
 ### Activity S3_32 - Using Functions
 
 Exercise goal: expand the possibilities with javascript through functions
+</br>
+<b>Please update page to see prompts and interact</b>
 
 <a href="./src/S3_32/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
 <a href="https://luhmaria.github.io/Kenzie_M1/src/S3_32/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
@@ -196,7 +203,6 @@ Exercise goal: improve logic with loops
 Exercise goal: understand objects concept
 
 <a href="./src/S5_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="https://luhmaria.github.io/Kenzie_M1/src/S5_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 

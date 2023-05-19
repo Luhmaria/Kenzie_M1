@@ -3,7 +3,7 @@ function numberexibition() {
   let number = parseInt(prompt("Digite um número inteiro"));
   console.log(`O número digitado foi ${number}`);
 }
-//numberexibition();
+numberexibition();
 
 //2
 function soma3() {
@@ -13,7 +13,7 @@ function soma3() {
   let soma = numberOne + numbertwo + numberThree;
   console.log(`A soma dos números digitados é ${soma}`);
 }
-//soma3();
+soma3();
 
 //3
 function mediaAnual() {
@@ -22,7 +22,7 @@ function mediaAnual() {
   let mediaAnual = (media1 + media2) / 12;
   console.log(`A média anual foi de ${mediaAnual.toFixed(2)}`);
 }
-//mediaAnual();
+mediaAnual();
 
 //4
 function restoDivisao(a, b) {
@@ -33,13 +33,13 @@ function restoDivisao(a, b) {
     console.log(`Esta é uma divisão inexata e o resto é ${resultado}`);
   }
 }
-//restoDivisao(10,2)
+restoDivisao(10, 2);
 
 //5
 function quadradoNumero(a) {
   console.log(`O quadrado de ${a} é ${a * a}`);
 }
-//quadradoNumero(5)
+quadradoNumero(5);
 
 //6
 function mediaPonderada(
@@ -57,19 +57,19 @@ function mediaPonderada(
     (peso1 + peso2 + peso3 + peso4);
   console.log(`A média ponderada é: ${mediaPonderada}`);
 }
-//mediaPonderada(1,2,3,4,1,2,3,4);
+mediaPonderada(1, 2, 3, 4, 1, 2, 3, 4);
 
 //7
 function mediaConcurso() {
   mediaPonderada(7, 5, 10, 8, 2, 1, 1, 1);
 }
-//mediaConcurso()
+mediaConcurso();
 
 //8
 function reajusteSaldo(saldo) {
   console.log(`O novo salário é de ${(saldo += 0.03 * saldo)}`);
 }
-//reajusteSaldo(1100)
+reajusteSaldo(1100);
 
 //9
 function areaTriangulo(base, altura) {
