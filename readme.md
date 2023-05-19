@@ -15,10 +15,8 @@
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S1_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S1_06/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -26,10 +24,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S1_12/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S1_12/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -37,10 +33,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S1_26/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S1_26/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -53,10 +47,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -64,10 +56,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_11/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_11/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -75,10 +65,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -86,10 +74,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_14/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_14/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -97,10 +83,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_20/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_20/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -108,10 +92,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S1_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_21/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -119,10 +101,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_23/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_23/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -130,10 +110,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S2_24/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S2_24/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -146,10 +124,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S3_14/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S3_14/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -157,10 +133,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S3_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S3_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -168,10 +142,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S3_26/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S3_26/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -179,10 +151,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S3_27/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S3_27/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -190,10 +160,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S3_32/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S3_32/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -206,10 +174,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S4_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S4_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -217,10 +183,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S4_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S4_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -233,10 +197,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S5_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S5_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -244,10 +206,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S5_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S5_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -255,10 +215,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S5_16/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S5_16/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -266,10 +224,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S5_19/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S5_19/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -282,10 +238,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S6_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S6_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -293,10 +247,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S6_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S6_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -309,10 +261,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S7_06/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S7_06/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -320,10 +270,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S7_07/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S7_07/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -331,10 +279,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S7_10/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S7_10/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -342,10 +288,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S7_13/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S7_13/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
@@ -353,10 +297,8 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S7_15/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S7_15/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
 
@@ -369,9 +311,7 @@ Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 Objetivo do exercício: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-`markup` `title` `hyperlink` `+`
-
 <a href="./src/S8_01/index.html"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="link_pages"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://luhmaria.github.io/Kenzie_M1/src/S8_01/index.html"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 </details>
